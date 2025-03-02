@@ -1,0 +1,2 @@
+# Prologue
+Personally, i wasn't into this AI stuff, but in this phase of technology we are living in, it reveals a leap of development vastly. AI & ML for me, are became a monster in disguise as a cute boy that always been teasing me to play with them. Finally, i accepted them to play with. Let's go.
