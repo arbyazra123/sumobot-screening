@@ -1,8 +1,8 @@
-# AI & Machine Learning capabilities in Game Dev
+# AI & Machine Learning in Game Dev
 ## What's AI & ML
 
 Keep in mind that when we are talking their capabilities is like how we (human) think and communicating with ourself. AI represents our behaviour in every action we did in our daily-basis. Machine Learning is a sub-set of AI concept that developed to teach machine how to **process specific task and give the accurate results as we want**.
-In the making, we need to feed them (AI & ML) a data & pattern since we want to get specific results.
+In the making, we need to feed them (AI & ML) flow/data/pattern since we want to get specific results.
 
 ## Understanding a map of AI & ML
 
@@ -26,3 +26,8 @@ There are several popular approaches of AI & ML that help us now. In the *figure
 </div>
 
 <p align="center">figure 2, taken from myoperator.com</p>
+
+- Unlike **Rule-based** that you need to define the flow completely as well as only some cases that can be handled, **Machine Learning** can handle many recurring tasks and problems. Nowadays, you can ask your phone by speaking to play music for you. In this case, this can be done by ML system that has already trained with: understanding about human behaviour, songs database, etc.
+
+## AI & ML implementation design in Game Dev
+
