@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="l4ue68rl7IU0H-CEaO9t">
+    <mxGraphModel dx="954" dy="615" grid="0" gridSize="23" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uZ7I2m8PBwaiOOO8SPps-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="70" width="540" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ7I2m8PBwaiOOO8SPps-2" value="Player&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="330" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ7I2m8PBwaiOOO8SPps-6" value="&lt;div&gt;Sumo AI&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="190" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ7I2m8PBwaiOOO8SPps-8" value="Pacing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ7I2m8PBwaiOOO8SPps-9" value="Threat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ7I2m8PBwaiOOO8SPps-10" value="Tempo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="300" width="85" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ7I2m8PBwaiOOO8SPps-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Pacing Sumo LEVEL&lt;/h1&gt;&lt;p&gt;Since we have pacing aspects: threat, tempo, and impetus (optional), we have to know what&#39;s possible element except player and enemy, currently set to none.&lt;br&gt;&lt;br&gt;I assume that the qualitative elements of player and enemy looks like:&lt;br&gt;1.&amp;nbsp;&lt;br&gt;&lt;br&gt;define since it&#39;s a source of the threats (), it could be a set of actions that Enemy collects&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="620" width="750" height="195" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
