@@ -107,7 +107,7 @@ In order to integrate our Game with AI, we need to define our goals, pick an AI 
       <tr>
         <td align="center">
           <video width="600" height="350" controls>
-            <source src="homework_final_result.mp4" type="video/mp4">
+            <source src="./homework_final_result.mp4" type="video/mp4">
           </video>
           <p>Video 1: Preview Game</p>
         </td>
