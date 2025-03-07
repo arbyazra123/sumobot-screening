@@ -103,11 +103,13 @@ In order to integrate our Game with AI, we need to define our goals, pick an AI 
 
     The *video 1* below shows that Black player is able to push Gold player until it goes down.
 
+    [![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](homework_final_result.mp4)
+
     <table align="center">
       <tr>
         <td align="center">
           <video width="600" height="350" controls>
-            <source src="./homework_final_result.mp4" type="video/mp4">
+            <source src="homework_final_result.mp4" type="video/mp4">
           </video>
           <p>Video 1: Preview Game</p>
         </td>
