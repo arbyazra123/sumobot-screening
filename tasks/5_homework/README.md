@@ -101,20 +101,13 @@ In order to integrate our Game with AI, we need to define our goals, pick an AI 
     3). Third iteration, Environtment enters to a new State, Environtment gift a Reward (push Gold), and so on until the Gold falls.
     
 
-    The *video 1* below shows that Black player is able to push Gold player until it goes down.
+    The below shows that Black player is able to push Gold player until it goes down.
 
-    [![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](homework_final_result.mp4)
+    
 
-    <table align="center">
-      <tr>
-        <td align="center">
-          <video width="600" height="350" controls>
-            <source src="homework_final_result.mp4" type="video/mp4">
-          </video>
-          <p>Video 1: Preview Game</p>
-        </td>
-      </tr>
-    </table>
+
+    https://github.com/user-attachments/assets/81561196-fb0d-4477-9860-eed79f89b547
+
 
 
     
