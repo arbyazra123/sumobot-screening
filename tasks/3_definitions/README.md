@@ -14,7 +14,7 @@ Let's define every elements that may exist inside a level of sumobot:
 6. Define a hidden-winner each simultaneous action. To know, compare the players that closer to the border of arena?
 7. Distance between the players
 8. Position / distance the players until they fall (outside of the arena)
-9. Duration of the game elapsed (if there's another level)
+9. Duration of the game elapsed
 
 Let's categorize with three rules:
 
@@ -41,3 +41,44 @@ We should define first what element(s) included in `Don’t model things that ar
    C. Duration of the game elapsed
    
    D. Position / distance the players until they fall (outside of the arena)
+
+
+We have successfuly assumed for the elements that can be considered to be a pacing aspects. Then, let's breakdown the possible values of each pacing aspects:
+
+1. **Threat**
+   
+   This came from the source of the threat itself, such what elements might the player/enemy feel a threat & danger?. Like us (human), we mostly feel threat / danger from the external source (such a competition, or straightly getting threatened by other human). It may contructs our perception that can be used in the future to be more aware. But sometimes we may overthink about our future, this kind of source that can lead us to be in a danger (feeling unsafe about the future). Based on the three rules, we can assume that we have:
+
+   A. Distance between the players (external)
+
+   B. Duration of the game elapsed (external)
+   
+   C. Actions chosen by players (internal)
+
+   D. Duration taken by players to decide an action (internal)
+
+2. **Tempo**
+   
+   In Rhythm Game, there are beats of the song, objects that may be an obstacles, visual effects that rush our feeling, etc. Those can be considered as an aspect of Tempo. Mostly the elements can be considered as a Tempo is something out of our control. Let's assume that we have:
+
+   A. Duration of the game elapsed
+
+   B. Arena
+
+   C. Actions chosen by players but not us
+
+   D. Distance between the players
+
+3. **Impetus?**
+
+   It's something why the players want to move (desire/will), since impetus might be hard to quantify. But let's discuss how we might get it. 
+
+   A. Duration of the game elapsed?
+
+   B. TBD
+
+
+## 2. PCG Experimentation to Enhance Replayability in Sumobot through player designed pacing. (TBD)
+
+
+## 3. Strategy modelling in Sumobot

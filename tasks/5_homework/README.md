@@ -103,9 +103,6 @@ In order to integrate our Game with AI, we need to define our goals, pick an AI 
 
     The below shows that Black player is able to push Gold player until it goes down.
 
-    
-
-
     https://github.com/user-attachments/assets/81561196-fb0d-4477-9860-eed79f89b547
 
 
